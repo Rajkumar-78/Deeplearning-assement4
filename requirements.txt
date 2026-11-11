@@ -1,0 +1,8 @@
+transformers>=4.40
+ datasets>=2.18
+ accelerate>=0.28
+ evaluate>=0.4
+ scikit-learn
+ torch
+ fastapi
+ uvicorn[standard]
